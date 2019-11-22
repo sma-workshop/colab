@@ -1,2 +1,1 @@
-# colab
-Google Collaboratory
+# Mater Praktek Social Media Analytics Menggunakan Python
